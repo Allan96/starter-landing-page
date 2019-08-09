@@ -9,4 +9,5 @@
 - [ ] Page Speed / GTMetrix
 - [ ] Google Analytics / TagManager
 - [ ] Favicon
+- [ ] Metatags
 - [ ] Link de Homologação
